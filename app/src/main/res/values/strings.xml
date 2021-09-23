@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerviewGridLayout</string>
+    <string name="office">Office</string>
+    <string name="x2_devices">x2 Devices</string>
+</resources>
